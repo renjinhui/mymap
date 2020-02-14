@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
+    "echarts": "^4.6.0",
+    "jsonp": "^0.2.1",
     "vue": "^2.6.11"
   },
   "devDependencies": {
